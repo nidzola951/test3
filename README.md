@@ -1,6 +1,6 @@
 # docsync
 
-This is an example project demonstrating how to setup an easy configuration for
+This is an MADACVFAKDKADOKODK example project demonstrating how to setup an easy configuration for
 keeping your `README.md` automatically synced with a GitHub Pages project
 page created using [**one of the great layouts**][1] available when using
 [**GitHub's Automatic Page Generator**][2].
