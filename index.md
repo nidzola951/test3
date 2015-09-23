@@ -1,11 +1,6 @@
----
-layout: index
----
-
-
 # docsync
 
-This is an example project demonstrating how to setup an easy configuration for
+This is an MADACVFAKDKADOKODK example project demonstrating how to setup an easy configuration for
 keeping your `README.md` automatically synced with a GitHub Pages project
 page created using [**one of the great layouts**][1] available when using
 [**GitHub's Automatic Page Generator**][2].
@@ -121,7 +116,7 @@ project page.
 [2]: https://help.github.com/articles/creating-pages-with-the-automatic-generator
 [3]: https://help.github.com/articles/creating-pages-with-the-automatic-generator#the-automatic-page-generator
 [4]: http://git-scm.com/book/en/Customizing-Git-Git-Hooks
-[5]: docs/gfm.md
+[5]: docs/test.md
 [6]: docs/source.txt
 [7]: docs/other.md
 [8]: docs/another.md
