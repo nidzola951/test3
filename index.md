@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # docsync
 
 This is an MADACVFAKDKADOKODK example project demonstrating how to setup an easy configuration for
