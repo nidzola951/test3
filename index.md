@@ -1,14 +1,10 @@
----
-layout: index
----
-
 Process document at Jarboo
 --------------------------
 
 **[J]arboo info**
 
 - Definitions and practical
-     - [J_1.1 - Terms and words](docs/J_1.1 - Terms and words.md)
+     - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
 
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
@@ -148,6 +144,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      	- [A_20.3.3 - Miscellaneous](A_20.3.3 - Miscellaneous.md)
      - Code reviewers
      - Testers
-     - [Test](http://nidzola951.github.io/test3/docs/test.md)
+     - [Test][1]
+     
+[1]: docs/test.md
+
 
 	 	
