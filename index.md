@@ -150,7 +150,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      - Testers
      - [Test][1]
      
-[1]: docs/test.md
+[1]: http://nidzola951.github.io/test3/docs/test.md
 
 
 	 	
