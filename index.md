@@ -8,7 +8,7 @@ Process document at Jarboo
 **[J]arboo info**
 
 - Definitions and practical
-     - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
+     - [J_1.1 - Terms and words](docs/J_1.1 - Terms and words.md)
 
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
